@@ -1,0 +1,1 @@
+This project focuses on analyzing hotel booking data using Python. It explores key trends such as booking behaviors, cancellation patterns, and seasonal impacts. The analysis includes data cleaning, exploratory data analysis (EDA), and insightful visualizations created using libraries like Pandas, Matplotlib, and Seaborn are used for efficient and insightful analysis. 
